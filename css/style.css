@@ -1,0 +1,10 @@
+ .weap {height: 100%;}     
+ div{          
+      float: left;
+      margin: 1%;
+      border-radius: 5%;
+      background: rgb(254,165,0);
+      height: 0;
+      padding-bottom: 30%;
+      width: 30%;
+}
